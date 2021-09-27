@@ -1,0 +1,68 @@
+[
+	{
+	  "key": 1,
+	  "name": "Zakir Naik",
+	  "age": 56,
+	  "religion": "Islam",
+	  "img": "https://i.pinimg.com/236x/d3/04/ef/d304efacee7a286d0aa4293dffe42208.jpg",
+	  "birth-place": "India",
+	  "profession": "Public Islamic Speaker",
+	  "date_of_birth": " October 18, 1965",
+	  "salary": 40000
+	},
+	{
+	  "key": 2,
+	  "name": "Ahmed Deedat",
+	  "age": "died at 87",
+	  "religion": "Islam",
+	  "img": "https://pbs.twimg.com/profile_images/1286642947501494275/G7zF157b_400x400.jpg",
+	  "birth-place": "India",
+	  "profession": "Public Islamic Speaker",
+	  "date_of_birth": " July 1, 1918",
+	  "salary": 50000
+	},
+	{
+	  "key": 3,
+	  "name": "Nouman Ali Khan",
+	  "age": 43,
+	  "religion": "Islam",
+	  "img": "https://i.pinimg.com/550x/73/2f/0c/732f0cb6df1327334abd2e750973cd9e.jpg",
+	  "birth-place": "Germany",
+	  "profession": "Islamic Speaker",
+	  "date_of_birth": " May 4, 1978",
+	  "salary": 30000
+	},
+	{
+	  "key": 4,
+	  "name": "Mufti Menk",
+	  "age": 46,
+	  "religion": "Islam",
+	  "img": "https://thehalallife.co.uk/wp-content/uploads/2019/04/menk.jpg",
+	  "birth-place": "Harare, Zimbabwe",
+	  "profession": "Islamic scholar, Mufti",
+	  "date_of_birth": "June 27, 1975",
+	  "salary": 35000
+	},
+	{
+	  "key": 5,
+	  "name": "Yusuf Estes",
+	  "age": 77,
+	  "religion": "Islam",
+	  "img": "https://photos.smugmug.com/Religion/Sheikh-Yusuf-Estes/i-gFSBh7v/0/ca9e3889/L/20081107_ShYusufEstes_IMG_1690-L.jpg",
+	  "birth-place": "United States",
+	  "profession": "Islamic Speaker",
+	  "date_of_birth": " January 1, 1944",
+	  "salary": 25000
+	},
+	{
+	  "key": 6,
+	  "name": "Omar Suleiman",
+	  "age": 35,
+	  "religion": "Islam",
+	  "img": "https://pbs.twimg.com/profile_images/1250131743937564673/mCLwvgW8_400x400.jpg",
+	  "birth-place": "United States",
+	  "profession": "Imam, Activist, Author",
+	  "date_of_birth": "1986",
+	  "salary": 20000
+	}
+  ]

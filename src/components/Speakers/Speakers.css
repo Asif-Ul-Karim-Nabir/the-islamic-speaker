@@ -1,0 +1,33 @@
+.speakers-container {
+  display: grid;
+  grid-template-columns: 3fr 1fr;
+  margin-bottom: 20px;
+}
+.speakers {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-gap: 20px;
+}
+.total-speaker {
+  margin-left: 30%;
+}
+
+/* media queries for  responsive  */
+@media only screen and (max-width: 600px) {
+  .speakers {
+    display: grid;
+    grid-template-columns: repeat(1, 1fr);
+  }
+}
+@media only screen and (min-width: 600px) {
+  .speakers {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+@media only screen and (min-width: 992px) {
+  .speakers {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+  }
+}

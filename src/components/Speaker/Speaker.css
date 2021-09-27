@@ -1,0 +1,24 @@
+.speaker-container {
+  margin-left: 15%;
+  background-color: lightgray;
+  border: 2px solid lightgray;
+  padding: 10px;
+  border-radius: 5px;
+  text-align: center;
+}
+.speaker-container img {
+  border-radius: 50%;
+  border: 3px solid lightgray;
+  width: 200px;
+  height: 200px;
+}
+.speaker-container p {
+  font-weight: 500;
+}
+.speaker-container button {
+  width: 150px;
+  height: 30px;
+  border-radius: 5px;
+  border: 1px solid lightgray;
+  background-color: goldenrod;
+}

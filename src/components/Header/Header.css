@@ -1,0 +1,19 @@
+body {
+  background-image: url(../../images/bg-img.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  opacity: 0.4px;
+}
+.header {
+  text-align: center;
+  width: 93%;
+  padding-top: 20px;
+  margin: auto;
+  border-radius: 5px;
+}
+.header h2 {
+  margin: 0;
+}
+.header h4 {
+  padding-bottom: 10px;
+}
